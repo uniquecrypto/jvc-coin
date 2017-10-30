@@ -1,4 +1,4 @@
-# AtcCoin integration/staging tree
+# JvcCoin integration/staging tree
 
 https://uniquecrypto.com/
 
